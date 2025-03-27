@@ -44,3 +44,4 @@ The program generates:
 
 ## 📝 License
 This project is under the MIT license.
+This project was developed with the help of AI tools for code generation and brainstorming solutions.
